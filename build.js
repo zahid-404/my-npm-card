@@ -24,7 +24,7 @@ const data = {
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~mukulrajpoot262610'),
   web: chalk.cyan('https://mukulrajpoot.com'),
   wakatime: chalk.gray('https://wakatime.com/') + chalk.cyan('@mukulrajpoot262610'),
-  npx: chalk.red('npx') + ' ' + chalk.white('mukulrajpoot262610'),
+  npx: chalk.red('npx') + ' ' + chalk.white('mukulrajpoot'),
 
   labelWork: chalk.white.bold('    Work:'),
   labelLinkedIn: chalk.white.bold('LinkedIn:'),
