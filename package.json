@@ -1,6 +1,6 @@
 {
   "name": "mukulrajpoot",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "description": "A personal card for Mukul Rajpoot (@mukulrajpoot262610)",
   "main": "/bin/card.js",
   "bin": {
