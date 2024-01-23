@@ -1,16 +1,16 @@
 {
-  "name": "mukulrajpoot",
-  "version": "3.1.0",
-  "description": "A personal card for Mukul Rajpoot (@mukulrajpoot262610)",
+  "name": "zahidmohammad",
+  "version": "1.0.0",
+  "description": "A personal card for Zahid Mohammad (@zahidmohammad)",
   "main": "/bin/card.js",
   "bin": {
-    "mukulrajpoot": "./bin/card.js"
+    "zahidmohammad": "bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/mukulrajpoot262610/my-npm-card"
+    "url": "git+https://github.com/zahid-404/my-npm-card"
   },
-  "homepage": "https://mukulrajpoot.com",
+  "homepage": "https://zahid.in",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Mukul Rajpoot <mukulrajpoot262610@gmail.com> (https://mukulrajpoot.com)",
+  "author": "Zahid Mohammad <zahidmohammd495@gmail.com> (https://zahid.in)",
   "license": "MIT",
   "files": [
     "bin/card.js",

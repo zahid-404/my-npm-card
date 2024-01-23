@@ -1,11 +1,11 @@
-It's me, Mukul😉! This is my developer card.
+It's me, Zahid😉! This is my developer card.
 
 # Usage
 
 ## npm
 
 ```
-npx mukulrajpoot
+npx zahidmohammd
 ```
 
 ## Output
